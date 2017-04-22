@@ -2,7 +2,7 @@
 
 > A Vue.js project, a batch of select list with shared data
 
-Demo is [here](https://hectorguo.com/book-library)
+Demo is [here](https://hectorguo.com/book-library/)
 
 ## Build Setup
 
